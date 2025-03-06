@@ -11,6 +11,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'LS_ABLB_COUNTRY'"
 		},
+		"LS_ABLB_FOR_DS_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'LS_ABLB_FOR_DS'"
+		},
 		"LS_API_password": {
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'LS_API'"
@@ -68,6 +72,9 @@
 					},
 					"LS_ABLB_COUNTRY_connectionString": {
 						"value": "[parameters('LS_ABLB_COUNTRY_connectionString')]"
+					},
+					"LS_ABLB_FOR_DS_connectionString": {
+						"value": "[parameters('LS_ABLB_FOR_DS_connectionString')]"
 					},
 					"LS_API_password": {
 						"value": "[parameters('LS_API_password')]"

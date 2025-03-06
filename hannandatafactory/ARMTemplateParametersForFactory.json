@@ -8,6 +8,9 @@
 		"LS_ABLB_COUNTRY_connectionString": {
 			"value": ""
 		},
+		"LS_ABLB_FOR_DS_connectionString": {
+			"value": ""
+		},
 		"LS_API_password": {
 			"value": ""
 		},
