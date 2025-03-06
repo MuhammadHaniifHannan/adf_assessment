@@ -1,0 +1,9 @@
+{
+	"name": "hannandatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15d9e091-135d-4cac-aa38-dbe6a55efc3f",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
