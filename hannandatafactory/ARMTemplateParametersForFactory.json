@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "hannandatafactory"
+		},
+		"LS_ABLB_COUNTRY_connectionString": {
+			"value": ""
+		},
+		"LS_API_password": {
+			"value": ""
+		},
+		"LS_ASQL_password": {
+			"value": ""
+		},
+		"LS_API_properties_typeProperties_url": {
+			"value": "https://jsonplaceholder.typicode.com/users"
+		},
+		"LS_API_properties_typeProperties_userName": {
+			"value": "Hannan"
+		},
+		"LS_ASQL_properties_typeProperties_server": {
+			"value": "sqlserverassesment.database.windows.net"
+		},
+		"LS_ASQL_properties_typeProperties_database": {
+			"value": "ASQL"
+		},
+		"LS_ASQL_properties_typeProperties_userName": {
+			"value": "Hannan"
+		}
+	}
+}
